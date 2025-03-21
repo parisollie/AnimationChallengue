@@ -1,10 +1,3 @@
-//
-//  Home.swift
-//  Animation Challenge (iOS)
-//
-//  Created by Balaji on 05/03/21.
-//
-
 import SwiftUI
 
 struct Home: View {
